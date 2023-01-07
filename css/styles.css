@@ -1,0 +1,14 @@
+body{
+    background-color: #EAF6F6;
+  }
+  
+  .red{
+    position: relative;
+    left: 20px;
+  }
+  
+  .blue{
+    border-style: solid;
+    position: relative;
+    left: 40px;
+  }
